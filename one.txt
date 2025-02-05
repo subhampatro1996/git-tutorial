@@ -2,3 +2,4 @@ This is the first file in THREE folder.
 
 This is the second line of text in file 1.
 
+This line is for fixing the bug 
